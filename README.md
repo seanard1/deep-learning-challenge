@@ -29,6 +29,8 @@ Contained in the `AlphabetSoup_Step1_2` notebook is the code for an initial anal
 
 The models are saved in the `Model_Files` directory in this repository.
 
+A report on the details and thought process behind the analysis is found in the file `Report.md`
+
 ## Citations
 
 https://stackoverflow.com/questions/50447222/google-colaboratory-keras-save-model-in-hdf5-file-format-and-download-it-to-l
